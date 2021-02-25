@@ -1,2 +1,2 @@
 # JAVA-PROJECTS
-Java Projects Portfolio 
+The following folder will contain programs done in the Java programming language. 
