@@ -1,7 +1,5 @@
 /*
  * Enrique Finol
- * Programming Assignment #5: Methods
- * Due Date: 02-16-2021
  * Description: The program prompts the user to enter the score of 5 different judges
  * and displays the average of the scores entered.
  * The program will allow the user to fix a mistake in the number entered.
