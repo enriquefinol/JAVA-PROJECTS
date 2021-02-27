@@ -1,7 +1,5 @@
 /*
  * Enrique Finol
- * Programming Assignment #4: Compound Interest
- * Due Date: 02-29-2021
  * Description: The following program prompts the user to enter the amount of dollars
  * to put in the savings account monthly, then asks for the annual interest rate,
  * finally asks the user to enter the number a number of months. This program will 
