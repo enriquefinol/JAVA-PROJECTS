@@ -1,7 +1,5 @@
 /*
  * Enrique Finol
- * Programming Assignment #6: Compound Arrays
- * Due Date: 02-24-2021
  * Description: The following program will take an array from the main
  * class and send it as an argument to five different methods in order to accomplish 
  * different actions. Display the values of the array, display values 
