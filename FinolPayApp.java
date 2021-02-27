@@ -1,7 +1,5 @@
 /*
  * Enrique Finol
- * Programming Assignment #3: Payroll Applications
- * Due Date: 02-02-2021
  * Description: The program request the employee's information and calculates the required deductions in order to obtain the net pay.
 
  */
