@@ -1,7 +1,5 @@
 /*
  * Enrique Finol
- * Programming Assignment #2: Calculate Tips
- * Due Date: 01-26-2021
  * Description: The program displays the gratuity and the total. Also, the program will prompt the user want to pay the entire bill or split the bill between 2, 3, or 4 people. Then it will display the amount of money 
  * every person has to pay.
 
